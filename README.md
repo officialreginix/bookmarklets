@@ -7,6 +7,14 @@ javascript:/* Made by 3kh0 https://github.com/3kh0/edit-page/ */document.body.co
  
    - - - -
  
+### Font Finder
+ ```javascript
+javascript: void((function(d) {    var e = d.createElement('script');    e.setAttribute('type', 'text/javascript');    e.setAttribute('charset', 'UTF-8');    e.setAttribute('src', '//www.typesample.com/assets/typesample.js?r=%27 + Math.random() * 99999999);    d.body.appendChild(e)})(document));
+ ```
+
+   - - - -
+
+
 ### Let It Snow
 
  ```javascript
