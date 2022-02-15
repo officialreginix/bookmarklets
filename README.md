@@ -1,3 +1,5 @@
+___I did not make these Bookmarklets!___
+
 # Bookmarklets
 
 ### Edit Pager
