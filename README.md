@@ -1,6 +1,12 @@
 # Bookmarklets
 
-
+### Edit Pager
+ ```javascript
+javascript:/* Made by 3kh0 https://github.com/3kh0/edit-page/ */document.body.contentEditable = true; void 0;
+ ```
+ 
+   - - - -
+ 
 ### Let It Snow
 
  ```javascript
